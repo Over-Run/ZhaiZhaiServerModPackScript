@@ -1,0 +1,19 @@
+{
+  "minecraft": {
+    "version": "1.12.2",
+    "modLoaders": [
+      {
+        "id": "forge-14.23.5.2847",
+        "primary": true
+      }
+    ]
+  },
+  "mainfestType": "minecraftModpack",
+  "manifestVersion": 1,
+  "name": "Zhai Zhai server fantasy adventure",
+  "version": "0.0.1",
+  "author": "baka4n",
+  "files": [
+  ],
+  "overrides": "overrides"
+}
