@@ -1,16 +1,16 @@
 {
   "minecraft": {
-    "version": "1.12.2",
+    "version": "1.19.2",
     "modLoaders": [
       {
-        "id": "forge-14.23.5.2847",
+        "id": "forge-43.2.4",
         "primary": true
       }
     ]
   },
   "mainfestType": "minecraftModpack",
   "manifestVersion": 1,
-  "name": "fogot your's recipes",
+  "name": "forgot yours recipes",
   "version": "0.0.1",
   "author": "baka4n",
   "files": [
