@@ -1,5 +1,5 @@
-# ZhaiZhaiServerModPackScript
-Zhai Zhai Server Mod Pack Script
+# fogot your's recipes
+fogot your's recipes
 
 # zs编写范例
 
