@@ -22,10 +22,11 @@ fogot your's recipes
     任务书           1.19.2  FTB Quests
     应用能源高级压印器 1.19.2  AE2 Things
     新生魔艺         1.19.2  Ars Nouveau
-    拔刀剑2         1.19.2  SlashBlade2
+    拔刀剑2          1.19.2  SlashBlade2
     穿草攻击         1.19.2  SwingThroughGrass
     建筑手杖         1.19.2  Construction Wand
     神秘农业         1.19.2  Mystical Agriculture
+    团队            1.19.2  Mystical Agriculture
 
 # zs编写范例
 
