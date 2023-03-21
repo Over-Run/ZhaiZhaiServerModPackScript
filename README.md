@@ -1,6 +1,9 @@
 # fogot your's recipes
 fogot your's recipes
 
+# mod list
+工业时代2经典版 1.19.2 IC2C
+
 # zs编写范例
 
 # 更新日志
