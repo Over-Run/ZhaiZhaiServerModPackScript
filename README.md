@@ -29,6 +29,11 @@ fogot your's recipes
     团队            1.19.2  Mystical Agriculture
     商店            1.19.2  Money and Sign Shops
     农夫乐事        1.19.2  farmer's delight
+    雕凿工艺        1.19.2  Chisels && Bits
+    跨越            1.19.2  KuaYue
+    华夏文明2       1.19.2  ChinaCraft2
+    玉              1.19.2  Jade
+    遍历            1.19.2  Traverse
 
 # zs编写范例
 
