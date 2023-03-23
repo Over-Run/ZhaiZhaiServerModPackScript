@@ -34,6 +34,11 @@ fogot your's recipes
     华夏文明2       1.19.2  ChinaCraft2
     玉              1.19.2  Jade
     遍历            1.19.2  Traverse
+    起源            1.19.2  Origins
+    起源职业        1.19.2  Origins Classes
+    起源通行        1.19.2  Origins: Accessibilities
+    神化            1.19.2  Apotheosis
+    神神秘遗物      1.19.2  Enigmatic Legacy
 
 # zs编写范例
 
