@@ -44,9 +44,14 @@ fogot your's recipes
     集成合成学      1.19.2  Integrated Crafting
     集成终端        1.19.2  Integrated Terminals
     集成标签        1.19.2  Integrated NBT
+    热力基础        1.19.2  Thermal Foundation
+    热力膨胀        1.19.2  Thermal Expansion
+    热力农业        1.19.2  Thermal Cultivation
+    热力革命        1.19.2  Thermal Innovation
+    热力运输        1.19.2  Thermal Locomotion
 
 # 待加入清单
-	热力膨胀5和其附属
+
 # zs编写范例
 
 # 更新日志
