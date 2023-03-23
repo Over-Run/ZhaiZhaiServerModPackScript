@@ -28,6 +28,7 @@ fogot your's recipes
     神秘农业         1.19.2  Mystical Agriculture
     团队            1.19.2  Mystical Agriculture
     商店            1.19.2  Money and Sign Shops
+    农夫乐事        1.19.2  farmer's delight
 
 # zs编写范例
 
