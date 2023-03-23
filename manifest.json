@@ -11,7 +11,7 @@
   "mainfestType": "minecraftModpack",
   "manifestVersion": 1,
   "name": "forgot yours recipes",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "author": "baka4n",
   "files": [
     {
@@ -387,6 +387,46 @@
     {
       "projectID": 626708,
       "fileID": 4382887,
+      "required": true
+    },
+    {
+      "projectID": 610632,
+      "fileID": 4401106,
+      "required": true
+    },
+    {
+      "projectID": 412013,
+      "fileID": 3876327,
+      "required": true
+    },
+    {
+      "projectID": 419723,
+      "fileID": 4386848,
+      "required": true
+    },
+    {
+      "projectID": 375088,
+      "fileID": 3925406,
+      "required": true
+    },
+    {
+      "projectID": 285105,
+      "fileID": 4412866,
+      "required": true
+    },
+	{
+      "projectID": 233105,
+      "fileID": 4389810,
+      "required": true
+    },
+	{
+      "projectID": 260912,
+      "fileID": 4415120,
+      "required": true
+    },
+	{
+      "projectID": 326041,
+      "fileID": 4415117,
       "required": true
     }
   ],
