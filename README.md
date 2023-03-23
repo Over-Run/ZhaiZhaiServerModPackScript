@@ -39,7 +39,14 @@ fogot your's recipes
     起源通行        1.19.2  Origins: Accessibilities
     神化            1.19.2  Apotheosis
     神神秘遗物      1.19.2  Enigmatic Legacy
+    集成动力        1.19.2  Integrated Dynamics
+    集成管道        1.19.2  Integrated Tunnels
+    集成合成学      1.19.2  Integrated Crafting
+    集成终端        1.19.2  Integrated Terminals
+    集成标签        1.19.2  Integrated NBT
 
+# 待加入清单
+	热力膨胀5和其附属
 # zs编写范例
 
 # 更新日志
