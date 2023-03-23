@@ -27,6 +27,7 @@ fogot your's recipes
     建筑手杖         1.19.2  Construction Wand
     神秘农业         1.19.2  Mystical Agriculture
     团队            1.19.2  Mystical Agriculture
+    商店            1.19.2  Money and Sign Shops
 
 # zs编写范例
 
